@@ -10,5 +10,5 @@ github_username:  MellifluousBee
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-#theme: jekyll-theme-midnight
-theme: minima
+theme: jekyll-theme-midnight
+#theme: minima
